@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+שירות השמה לבנים ובנות בכל הארץ! מחפשים עבודה? מצאו משרות מתאימות באזורכם עם שירות גיוס מקצועי ומהיר. התחילו את הקריירה שלכם היום!
+
+### אודות
+https://example.com/about
+סוכנות גיוס מובילה המתמחה בהשמת בנים ובנות בעבודות איכותיות ברחבי הארץ. ניסיון עשיר, שירות אישי והתאמה מושלמת למעסיקים מובילים.
+
+### אזורים
+https://example.com/regions
+מצפון ועד דרום - משרות מעולות בכל אזור! צפו במגוון הזדמנויות תעסוקה באזורכם עם חברת כוח אדם מקצועית. staffing agencies near me שמביאות תוצאות.
+
+### צור קשר
+https://example.com/contact
+מוכנים להתחיל לעבוד? צרו קשר עם מגייסי ההייטק והתעשייה המובילים שלנו. it recruiters מקצועיים ימצאו עבורכם את ההזדמנות הבאה תוך 24 שעות!
+
+### Products
+https://example.com/products
+המוצרים שלנו - מחפש עבודות בנים ובנות מכל הארץ
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - מחפש עבודות בנים ובנות מכל הארץ
+
+### Category
+https://example.com/category/:slug
+מוצרים - מחפש עבודות בנים ובנות מכל הארץ
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
